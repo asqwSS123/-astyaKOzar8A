@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Подорожі-Головна</title>
+		<link rel="stylesheet" type="text/css" href="style.css
+	</head>
+	<body>
+		<header class="head">
+			<img src="logol.jpg" class="logol" alt="логотип">
+			<nav class="menu">
+				<ul clas="menu-links">
+					<li class="">
+						<a href="index.html" class="menu-item-link">Головна</a>
+					</li>
+					<li class="menu-item">
+						<a href="destination.html"class="menu-item-link">Напрямки</a>
+					</li>
+					<li class="menu-item">
+						<a href="contact.html"class="menu-item-link">Контакти</a>
+					</li>
+				<ul>	
+			</nav>
+		</header>
+				
+		<section class="hero">
+			<div class="hero-info">
+				<h1 class="hero-title">Ласкаво просимо до світу подорожів</h1>
+				<p class="herro-text">Відкрите дял себе нові місця та враження!</p>
+			</div>
+		</section>
+
+		<section class="intro">
+			<h2 class="into-title">Чому слід обрати нас?</h2>
+			<div class="card">
+				<img scr="img.jpg" class="card-img" alt="Найращі напрямки">
+				<div class="card-content">
+					<h3 class="card-title">Найкращі напрямки для вашої подорожі</h3>
+					<ul class="card-list">
+						<li class="card-list-item">Екзотичнеі осрови<li>
+						<li class="card-list-item">Історичні міста<li>
+						<li class="card-list-item">Культурні центри<li>
+					<ul>	
+				</div>	
+			</div>
+			<div class="card">
+				<img scr="img3.jpg" class="card-img" alt="Індивідуальні тури">
+				<div class="card-content">
+					<h3 class="card-title">Індивідуальні тури під ваші потреби</h3>
+					<ul class="card-list">
+						<li class="card-list-item">Сімейні тури<li>
+						<li class="card-list-item">Романтичні подорожі<li>
+						<li class="card-list-item">Естримальні пригоди<li>
+					<ul>	
+				</div>	
+			</div>
+			<div class="card">
+				<img scr="img3.jpg" class="card-img" alt="Сервіс">
+				<div class="card-content">
+					<h3 class="card-title">Відмінний червіс</h3>
+					<ul class="card-list">
+						<li class="card-list-item">24/7 підтримка клієтнів<li>
+						<li class="card-list-item">Зручне бронювання<li>
+						<li class="card-list-item">Гарантована яість послуг<li>
+					<ul>	
+				</div>	
+			</div>	
+		</section>
+
+		<footer class="footer">
+			<P class="footer-info">
+				&copy;2025 Порожі.Автор: Козар Н.С.Всі права захищено.
+			</p>
+		</footer>
+
+	</body>
+</html>
